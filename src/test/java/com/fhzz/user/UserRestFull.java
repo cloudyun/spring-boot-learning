@@ -10,6 +10,7 @@ public class UserRestFull {
 	public static void main(String[] args) {
 //		get(5);
 //		delete(5);
+		add();
 	}
 	
 	public static void get(int id) {
